@@ -9,7 +9,18 @@
     background-color: black;
 }
 
-.alert-info {
+.scrollable {
+    color: white;
+    background-color: black;
+    
+}
+
+.container-fluid {
+    color: white;
+    background-color: black;
+}
+
+footer {
     color: white;
     background-color: black;
 }
