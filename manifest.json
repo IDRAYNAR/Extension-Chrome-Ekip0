@@ -1,10 +1,10 @@
 {
 
     "manifest_version": 2,
-    "name"            : "Devinci Override",
+    "name"            : "Hack Devinci Portal",
     "version"         : "1.0",
 
-    "description": "Vivre mieux avec son portail !",
+    "description": "Donnez une touche de Matrix à votre portail !",
 
     "content_scripts": [{
         "matches": ["*://*.leonard-de-vinci.net/*"],
