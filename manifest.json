@@ -14,7 +14,7 @@
             "32" : "https://cdn.iconscout.com/icon/free/png-256/hacker-3-71191.png",
             "48" : "https://cdn.iconscout.com/icon/free/png-256/hacker-3-71191.png",
             "128": "https://cdn.iconscout.com/icon/free/png-256/hacker-3-71191.png"
-        }
+        },
         "content_scripts": [{
             "matches": ["*://*.leonard-de-vinci.net/*"],
             "js"     : ["override-devinci.js"],
