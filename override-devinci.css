@@ -20,12 +20,12 @@
     background-color: black;
 }
 
-footer {
+p {
     color: white;
     background-color: black;
 }
 
-.social-sidebar .social-sidebar-content .scrollable {
-    background-color: black;
+.alert .alert-info {
+    background-color: transparent;
     color: white;
 }
