@@ -13,3 +13,8 @@
     color: white;
     background-color: black;
 }
+
+.social-sidebar .social-sidebar-content .scrollable {
+    background-color: black;
+    color: white;
+}
