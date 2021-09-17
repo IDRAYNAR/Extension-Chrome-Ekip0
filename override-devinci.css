@@ -8,3 +8,13 @@
     color: white;
     background-color: black;
 }
+
+.alert-info {
+    color: white;
+    background-color: black;
+}
+
+.social-sidebar .social-sidebar-content .scrollable {
+    background-color: black;
+    color: white;
+}
