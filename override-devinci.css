@@ -1,24 +1,48 @@
 .override {
-    background-image: url(https://cdn.wallpapersafari.com/31/5/RuyK1a.gif);
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     background-size: cover;
     color: white;
 
 }
 .body {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     color: white;
     background-color: black;
 }
 
 .alert-info {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     color: white;
     background-color: black;
 }
 
 .social-sidebar .social-sidebar-content .scrollable {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     background-color: black;
     color: white;
 }
 
 #footer.footer-sidebar-full {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     background-color: black;
+}
+
+* {
+    color: white;
+    background: transparent;
 }
