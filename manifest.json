@@ -1,15 +1,24 @@
 {
-
-    "manifest_version": 2,
     "name"            : "Devinci Override",
+    "description"     : "Vivre mieux avec son portail !",
     "version"         : "1.0",
-
-    "description": "Vivre mieux avec son portail !",
-
-    "content_scripts": [{
-        "matches": ["*://*.leonard-de-vinci.net/*"],
-        "js"     : ["override-devinci.js"],
-        "css"    : ["override-devinci.css", "style.css"]
-    }]
-
+    "manifest_version": 2,
+    "background"      : {
+        "service_worker": "override-devinci.js"
+    },
+    "permissions": ["storage"],
+    "action"     : {
+        "default_popup": "popup.html",
+        "default_icon" : {
+            "16" : "https://cdn.iconscout.com/icon/free/png-256/hacker-3-71191.png",
+            "32" : "https://cdn.iconscout.com/icon/free/png-256/hacker-3-71191.png",
+            "48" : "https://cdn.iconscout.com/icon/free/png-256/hacker-3-71191.png",
+            "128": "https://cdn.iconscout.com/icon/free/png-256/hacker-3-71191.png"
+        }
+        "content_scripts": [{
+            "matches": ["*://*.leonard-de-vinci.net/*"],
+            "js"     : ["override-devinci.js"],
+            "css"    : ["override-devinci.css", "style.css"]
+        }]
+    }
 }
