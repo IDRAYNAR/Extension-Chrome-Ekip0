@@ -16,18 +16,21 @@
     background-color: black;
 }
 
-.container-fluid {
+.alert-info {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     color: white;
     background-color: black;
 }
 
-p {
-    color: white;
+.social-sidebar .social-sidebar-content .scrollable {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     background-color: black;
-}
-
-.alert .alert-info {
-    background-color: transparent;
     color: white;
 }
 
