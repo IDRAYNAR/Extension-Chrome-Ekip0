@@ -1,10 +1,10 @@
 {
 
     "manifest_version": 2,
-    "name"            : "Hack Devinci Portal",
+    "name"            : "Devini Purple Wave Mod",
     "version"         : "1.0",
 
-    "description": "Donnez une touche de Matrix à votre portail !",
+    "description": "Give a whimsical aspect to your portal",
 
     "content_scripts": [{
         "matches": ["*://*.leonard-de-vinci.net/*"],

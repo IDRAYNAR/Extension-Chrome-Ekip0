@@ -13,7 +13,6 @@
     background-attachment: fixed;
     background-repeat: no-repeat;
     color: white;
-    background-color: black;
 }
 
 .alert-info {
@@ -22,7 +21,6 @@
     background-attachment: fixed;
     background-repeat: no-repeat;
     color: white;
-    background-color: black;
 }
 
 .social-sidebar .social-sidebar-content .scrollable {
@@ -30,7 +28,6 @@
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-color: black;
     color: white;
 }
 
@@ -39,10 +36,30 @@
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-color: black;
 }
 
 * {
     color: white;
     background: transparent;
+}
+
+.table-striped tbody > tr:nth-child(odd) > td, .table-striped tbody>tr:nth-child(odd)>th {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.accordion-heading {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.well-header {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
