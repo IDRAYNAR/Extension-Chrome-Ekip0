@@ -17,10 +17,7 @@
 }
 
 .alert-info {
-    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
-    background-size: cover;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
+    background: transparent;
     color: white;
 }
 
@@ -117,3 +114,70 @@ td {
     background-repeat: no-repeat;
 }
 
+.icon-picture:before {
+    content: "\f03e";
+    color: black;
+}
+
+.fc-time-grid .fc-bgevent {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.fc-agenda-view .fc-day-grid .fc-row .fc-content-skeleton {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.fc-icon-right-single-arrow:after {
+    color: black;
+}
+
+.fc-icon-left-single-arrow:after {
+    color: black;
+}
+
+.alert alert-info {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.social-box.social-blue.social-bordered {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.social-box .header, .social-box header {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.well {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.panel-title {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.panel-body {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
