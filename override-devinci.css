@@ -181,7 +181,21 @@ td {
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
-
+ul {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+a {
+    color: white;
+}
+.container-fluid {
+    background-image: url(https://media0.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
 .alert-info p {
     margin: 0 0 10px;
     color: black;
