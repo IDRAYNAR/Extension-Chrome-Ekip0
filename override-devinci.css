@@ -181,3 +181,8 @@ td {
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
+
+.alert-info p {
+    margin: 0 0 10px;
+    color: black;
+}
